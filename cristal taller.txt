@@ -1,0 +1,33 @@
+p/hoy:
+  sacar los precios de todos los cuadros NO pedidos.
+  -> generar link de pago.
+  -> publicar el link en la tienda, PROBARLO?
+
+//////////////////
+  CRISTAL TALLER
+//////////////////
+
+ ⭐ Necesito que se actualize automaticamente y me muestre los ultimos proyectos/cuadros.
+ ⭐ Necesito hacer la segunda pagina para las ventas, e ahi implementar mercadopago.
+
+ AVISO
+ La landing para los ultimos proyectos, para atraer gente. Y ->
+ La 'tienda' para ventas.
+
+ NECESITO:
+ ⭐ las fotos para los ultimos productos.
+ ⭐ la web de ventas.
+ ⭐ Hacer un buscador.
+ ⭐ Cambiar el call to action de NOSOTROS
+ ⭐ Cambiar el "quiero el mismo" por "quiero uno".
+
+ hacenos cualquier duda que tenas // ESTA MAL!
+  + esta 2 veces la direccion de correo electronico. por la opcion que habilite.
+  +´la primera celda esta mal.
+
+ aladdin 50 x 60
+ caballo 40 x 50
+
+
+
+ 
